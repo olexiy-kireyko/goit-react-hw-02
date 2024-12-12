@@ -1,0 +1,10 @@
+.description_header {
+  text-transform: capitalize;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.description_text {
+  font-size: 30px;
+  font-weight: 400;
+}
